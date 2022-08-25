@@ -1,4 +1,4 @@
-// Receive one byte via RS232 ("A" = 01000001 = 65 and "A" + parity bit = 010000010)
+// Receive one character via RS232 ("A" = 01000001 = 65 and "A" + parity bit = 010000010)
 
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
