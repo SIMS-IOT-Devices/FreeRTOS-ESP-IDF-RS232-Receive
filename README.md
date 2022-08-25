@@ -1,2 +1,3 @@
-# FreeRTOS-ESP-IDF-RS232-Receive
-Receive one byte via RS232 from ESP32 to ESP32
+FreeRTOS ESP IDF RS232 Receive
+
+Examples of data reception in ESP32, via RS232 from another ESP32 in ESP IDF environment.
